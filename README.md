@@ -4,3 +4,5 @@ Repository for helping first-timers contribute to open source
 # Add your names from here onwards
 
 Anshuman Agarwal
+
+Vivek Singh
